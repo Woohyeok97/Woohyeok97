@@ -6,7 +6,9 @@
 
 ## project
 
-- <a href="https://google.com">Rottne games</a>
-- <a>아직</>
+**게임정보 & 유저 커뮤니티 웹앱**
+<a href="https://google.com">Rottne games</a>
+
+
 
 
