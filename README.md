@@ -6,8 +6,8 @@
 
 ## project
 
-- <a href="" title=""target="_blank">Rotten Games</a>
+<a href="" title=""target="_blank">Rotten Games</a>
 
-- 아직
+아직
 
 
