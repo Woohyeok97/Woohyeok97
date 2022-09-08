@@ -6,8 +6,6 @@
 
 ## project
 
-<a href="" title=""target="_blank">Rotten Games</a>
-
-아직
+<a href="https://google.com">Rottne games</a>
 
 
