@@ -7,8 +7,10 @@
 ## project
 
 **게임정보 & 유저 커뮤니티 웹앱**
-<a href="https://google.com">Rottne games</a>
+<a href="https://woohyeok97.github.io">Rottne games</a>
 
+**하루한번, 나자신 칭찬 [프로젝트 칭찬해]**
+<a href="https://woohyeok97.github.io">칭찬해</a>
 
 
 
