@@ -10,7 +10,7 @@
 <a href="https://woohyeok97.github.io">Rottne games</a>
 
 **하루한번, 나자신 칭찬 [프로젝트 칭찬해]**
-<a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">칭찬해</a>
+<a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">칭찬해~~</a>
 
 
 
