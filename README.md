@@ -4,8 +4,8 @@
 
 ### **WooHyeok Baek**<br>
 🖥  **FE developer**<br>
-email : qordngur156@gmail.com <br>
-profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
+**email** : qordngur156@gmail.com <br>
+**profile** : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
 
 <div align="center">
     <h2>⚙️ Tech Stack</h2>
@@ -21,14 +21,13 @@ profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb
     <h2>💻 Project</h2>
 </div>
 
-🙋‍♀️ **CCH** - 하루한번, 나 칭찬해<br>
-Application : <a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">CCH</a><br>
-infomation 
+### 🙋‍♀️ **CCH** - 하루한번, 나 칭찬해
+**Application** **:** **<a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">CCH</a>**<br>
+**infomation**
 <br>
 
-🎮 **Game Shop** -
-커스텀 STEAM 게임쇼핑 서비스<br>
-Application : <a href="https://woohyeok97.github.io">Game Shop</a><br>
-infomation
+### 🎮 **Game Shop** - 커스텀 STEAM 게임쇼핑 서비스
+**Application** **:** **<a href="https://woohyeok97.github.io">Game Shop</a>**<br>
+**infomation**
 
 
