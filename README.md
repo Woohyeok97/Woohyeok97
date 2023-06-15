@@ -1,36 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:EEFF00,100:a82da8&height=100&section=header&text=GONOW&fontSize=60&fontAlignY=55&animation=fadeIn)
+### 😃 **Introduce**
+---
+**WooHyeok Baek**<br>
+🖥  **FE developer**<br>
+email : qordngur156@gmail.com <br>
+profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
 
 <br>
-<br>
 
-**웹 프론트엔드 개발자, 고나우 (WooHyeok Baek)**
-
+### ⚙️ **Tech Stack**
 ---
 <br>
 
+![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-<!-- TECH헤더 -->
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=TECH&fontAlign=8&fontSize=30&desc=&height=50&fontAlignY=55&theme=radical)
-
-
-![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-![React badge](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js badge](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB badge](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white)
+![React badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Next badge](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white) ![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white)
 
 ![Git badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
+<br>
 
+### 📚 **Project**
+---
 
-<!-- PROJECT헤더 -->
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=PROJECT&fontAlign=12&fontSize=30&desc=&height=50&fontAlignY=55&theme=radical)
+🙋‍♀️ **CCH** - 하루한번, 나 칭찬해<br>
+Application : <a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">CCH</a><br>
+infomation 
+<br>
 
-**커스텀STEAM 게임쇼핑 서비스 [ Game Shop ]**<br>
-<a href="https://woohyeok97.github.io">Game Shop</a>
-
-
-**하루한번, 나에게 칭찬해~ [ CCH ]**<br>
-<a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">CCH</a>
-
-
+🎮 **Game Shop** -
+커스텀 STEAM 게임쇼핑 서비스<br>
+Application : <a href="https://woohyeok97.github.io">Game Shop</a><br>
+infomation
 
 
