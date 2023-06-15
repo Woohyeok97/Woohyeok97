@@ -1,15 +1,14 @@
-### 😃 **Introduce**
----
+## 😃 **Introduce**
 **WooHyeok Baek**<br>
 🖥  **FE developer**<br>
+<br>
 email : qordngur156@gmail.com <br>
 profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
 
 <br>
 
-### ⚙️ **Tech Stack**
----
-<br>
+## ⚙️ **Tech Stack**
+
 
 ![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
@@ -19,8 +18,7 @@ profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb
 
 <br>
 
-### 📚 **Project**
----
+## 📚 **Project**
 
 🙋‍♀️ **CCH** - 하루한번, 나 칭찬해<br>
 Application : <a href="https://web-cch-p8xrq2mlfs3c9q1.sel3.cloudtype.app">CCH</a><br>
