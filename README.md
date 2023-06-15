@@ -1,5 +1,5 @@
 # **😃 Introduce**
-### **WooHyeok Baek**<br>
+### **Hi!🖐, I'm WooHyeok Baek!**<br>
 ### 🖥  **FE developer**<br>
 ### **email** : qordngur156@gmail.com <br>
 ### **profile** : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
