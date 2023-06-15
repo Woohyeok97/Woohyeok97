@@ -1,11 +1,9 @@
 ## 😃 **Introduce**
-**WooHyeok Baek**<br>
+### **WooHyeok Baek**<br>
 🖥  **FE developer**<br>
 <br>
 email : qordngur156@gmail.com <br>
 profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
-
-<br>
 
 ## ⚙️ **Tech Stack**
 
@@ -16,7 +14,6 @@ profile : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb
 
 ![Git badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-<br>
 
 ## 📚 **Project**
 
