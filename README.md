@@ -1,10 +1,8 @@
 # **😃 Introduce**
 ### **Hi!🖐, I'm WooHyeok Baek!**<br>
-🖥  **FE developer**<br>
+### 🖥  **FE developer**<br>
 **email** : qordngur156@gmail.com <br>
 **profile** : <a href="https://lapis-bench-cc8.notion.site/Woohyeok-Baek-933015630cb34a349325fb4c7bd5e152?pvs=4">노션 프로필</a>
-
-<br>
 
 # **⚙️ Tech Stack**
 
@@ -13,8 +11,6 @@
 ![React badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Next badge](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white) ![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white)
 
 ![Git badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
- <br>
 
 # **💻 Project**
 
