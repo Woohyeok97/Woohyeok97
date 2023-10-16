@@ -15,8 +15,6 @@
 About : [Repo](https://github.com/Woohyeok97/Game-Pick)<br>
 Link : [GamePick](https://game-pick.vercel.app)
 
-<br>
-
 
 
 <!-- ![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
