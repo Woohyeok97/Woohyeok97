@@ -3,15 +3,11 @@
 🏠 Blog : https://velog.io/@qordngur156<br>
 📬 Email : qordngur156@gmail.com<br>
 
-<br>
-
 # TECH
 
 <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,mongodb&perline=7"/>
 </p>
-
-<br>
 
 # SERVICE
 
