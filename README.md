@@ -6,8 +6,6 @@
 💻 **Front-End Engineer**<br>
 📬 **Email :** qordngur156@gmail.com<br>
 
-<br>
-
 # TECH
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704265063444?alt=media&token=ed121dcf-f91b-4a98-809e-0442e91fd572)](https://github.com/msdio/stackticon)
@@ -17,8 +15,6 @@
 <!-- <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,mongodb&perline=7"/>
 </p> -->
-
-<br>
 
 </div>
 
