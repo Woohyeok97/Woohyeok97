@@ -1,20 +1,26 @@
+<!-- <div align="center"> -->
+<div>
+
 # Woohyeok Baek
 
-🏠 Blog : https://velog.io/@qordngur156<br>
-📬 Email : qordngur156@gmail.com<br>
+💻 **Front-End Engineer**<br>
+📬 **Email :** qordngur156@gmail.com<br>
 
-## TECH
+<br>
 
-<p herf="https://skillicons.dev">
+# TECH
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704265063444?alt=media&token=ed121dcf-f91b-4a98-809e-0442e91fd572)](https://github.com/msdio/stackticon)
+
+<!-- https://msdio.github.io/stackticon/#/ -->
+
+<!-- <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,mongodb&perline=7"/>
-</p>
+</p> -->
 
-## SERVICE
+<br>
 
-### 🎮 GamePick
-About : [Repo](https://github.com/Woohyeok97/Game-Pick)<br>
-Link : [GamePick](https://game-pick.vercel.app)
-
+</div>
 
 
 <!-- ![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
